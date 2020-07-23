@@ -1,0 +1,34 @@
+[ 
+    {
+    "q" : "Huck",
+    "type" : "movie",
+    "limit" : 5,
+    "info" : 1
+    },
+    {
+      "q" : "Titanic",
+      "type" : "movie",
+      "limit" : 3,
+      "info" : 0
+    },
+    {
+        "q" : "Spider-Man",
+        "type" : "movie",
+        "limit" : 3,
+        "info" : 1
+      },
+      {
+        "q" : "Spider-Man",
+        "type" : "movie",
+        "info" : 1
+      },
+      
+    {
+        "isKeyValid": true,
+        "q": "Guardians Of The Galaxy Vol. 2",
+        "type": "movie",
+        "info": 1,
+        "limit": 3,
+        "k": "375866-api-RAQ40VP9"
+    }
+]
